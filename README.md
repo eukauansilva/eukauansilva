@@ -4,9 +4,6 @@
 
 ## Kauan Silva 👋
 **Explorando as possibilidades no mundo das linguagens de programação... Fique a vontade para visualizar os meus projetos, seja Bem-Vindo!
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
