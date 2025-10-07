@@ -5,9 +5,6 @@
 ## Kauan Silva 👋
 **Explorando as possibilidades no mundo das linguagens de programação... Fique a vontade para visualizar os meus projetos, seja Bem-Vindo!
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
